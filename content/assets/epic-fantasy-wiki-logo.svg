@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Epic Fantasy Wiki Logo</title>
+  <desc id="desc">A circular EFW wordmark with a star above it.</desc>
+  <rect width="256" height="256" rx="40" fill="#faf8f8"/>
+  <circle cx="128" cy="128" r="88" fill="#284b63"/>
+  <circle cx="128" cy="128" r="76" fill="none" stroke="#84a59d" stroke-width="6"/>
+  <path d="M128 48l8.8 26.4h27.8l-22.5 16.4 8.6 26.5L128 100.9l-22.7 16.4 8.6-26.5-22.5-16.4h27.8L128 48z" fill="#faf8f8"/>
+  <text x="128" y="157" text-anchor="middle" fill="#faf8f8" font-family="Georgia, 'Times New Roman', serif" font-size="54" font-weight="700" letter-spacing="2">EFW</text>
+  <path d="M82 180h92" stroke="#84a59d" stroke-width="6" stroke-linecap="round"/>
+</svg>
