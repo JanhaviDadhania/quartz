@@ -18,34 +18,32 @@ This is a wiki for the high fantasy novel I am writing. The story starts with [[
 - [[human-civilization|Human Civilization]]
 - [[mindland|Mindland]]
 - [[characters/index|Characters]]
+- [[commonplace-book|Commonplace Book]]
+- [[arc/index|Arc]]
+- [[the-blast-day|The Blast Day]]
+- [[tellers-grey-man|Tellers — Grey Man]]
+- [[dreamcase|Dreamcase]]
 
 ## Human Civilization
 
 Use [[human-civilization|Human Civilization]] as the main page for Earth, its advanced stage of development, institutions, technology, scientific culture, and the starting condition of the story.
 
-Good child pages to add later:
+Child pages:
 
-- history of human civilization
-- Earth science institutions
-- social structure
-- technology and infrastructure
-- major conflicts or pressures
+- [[organisation-of-human-civilisation|Organisation of Human Civilisation]]
+- [[commonplace-book|Commonplace Book]]
 
 ## Mindland
 
-Use [[mindland|Mindland]] as the main page for the fantasy world, region, continent, plane, or setting layer that the story moves through. If Mindland becomes a country, continent, realm, or metaphysical space, rename or clarify the page once that is decided.
+Use [[mindland|Mindland]] as the main page for the advanced civilization the story moves toward.
 
-Good child pages to add later:
+Child pages:
 
-- geography
-- cultures and peoples
-- magic or natural laws
-- important locations
-- political structure
+- [[organisation-of-mindland|Organisation of Mindland]]
 
 ## Characters
 
-Use [[characters/index|Characters]] as the main character index. Keep one page per important character, then link those pages from scenes, places, organizations, timelines, and idea notes.
+Use [[characters/index|Characters]] as the main character index.
 
 Current character pages:
 
@@ -54,6 +52,20 @@ Current character pages:
 - [[characters/Ethal|Ethal]]
 - [[characters/Prutha|Prutha]]
 - [[characters/Wise Man|Wise Man]]
+
+## Events
+
+- [[the-blast-day|The Blast Day]]
+
+## Institutions and Groups
+
+- [[commonplace-book|Commonplace Book]]
+- [[tellers-grey-man|Tellers — Grey Man]]
+
+## Other Pages
+
+- [[arc/index|Arc]] — story arc, poems
+- [[dreamcase|Dreamcase]]
 
 ## Wiki Notes
 
