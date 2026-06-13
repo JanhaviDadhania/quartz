@@ -7,7 +7,7 @@ tags:
 
 # Epic Fantasy Wiki
 
-![Epic Fantasy Wiki logo](assets/epic-fantasy-wiki-logo.svg)
+<img src="assets/epic-fantasy-wiki-logo.png" alt="House Viridian sigil" width="240"/>
 
 Welcome to Epic Fantasy Wiki.
 
