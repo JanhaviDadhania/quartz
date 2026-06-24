@@ -19,6 +19,7 @@ This is a wiki for the high fantasy novel I am writing. The story starts with [[
 - [[mindland|Mindland]]
 - [[characters/index|Characters]]
 - [[commonplace-book|Commonplace Book]]
+- [[stories/index|Stories]]
 - [[arc/index|Arc]]
 - [[the-blast-day|The Blast Day]]
 - [[tellers-grey-man|Tellers — Grey Man]]
@@ -52,6 +53,12 @@ Current character pages:
 - [[characters/Ethal|Ethal]]
 - [[characters/Prutha|Prutha]]
 - [[characters/Wise Man|Wise Man]]
+
+## Stories
+
+Written episodes of the novel.
+
+- [[stories/pilot|Pilot]]
 
 ## Events
 
